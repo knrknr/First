@@ -1,5 +1,5 @@
 fun main(){
-	println("Hellp Git")
-	println("nice to meet you")
+	println("Hello Git")
+	println("Nice to meet you")
 }
 
