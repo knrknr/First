@@ -1,4 +1,4 @@
 fun main(){
-  println("Nice to github")
+  println("Nice github")
   println("Nice to meet you")
  }
